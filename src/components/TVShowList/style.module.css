@@ -1,0 +1,17 @@
+.title {
+  font-weight: 600;
+  font-family: Roboto;
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+.list:hover {
+  overflow: auto;
+}
+.list {
+  display: flex;
+  overflow-x: hidden;
+  padding-bottom: 20px;
+}
+.tv_show_item {
+  margin-right: 20px;
+}
